@@ -14,6 +14,5 @@
 
 		public Book Book { get; set; }
 		public Currency Currency { get; set; }
-
 	}
 }
